@@ -1,0 +1,3 @@
+Nama Repository: latihan-portofolio-newversion
+GitHub Repository: https://github.com/Christian190406/latihan-portofolio-newversion
+Git Clone URL: https://github.com/Christian190406/latihan-portofolio-newversion.git

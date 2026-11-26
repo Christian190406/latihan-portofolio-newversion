@@ -1,0 +1,3 @@
+-- Portfolio Laravel
+-- Versi tugas: Website statis tanpa database.
+-- Tidak ada tabel yang perlu dibuat.
